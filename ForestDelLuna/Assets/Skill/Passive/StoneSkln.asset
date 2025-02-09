@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24fe49f9b5ba54e458b1b1dac2230ddb, type: 3}
+  m_Name: StoneSkln
+  m_EditorClassIdentifier: Assembly-CSharp::SkillInfo
+  Type: 1
+  SkillIcon: {fileID: 21300000, guid: 28a69247f02ef4f438c08299bdf9c458, type: 3}
+  name: "\uBC14\uC704\uD53C\uBD80"
+  info: "\uADFC\uCC98\uC5D0 \uC801\uC774 \uB9CE\uC744\uC218\uB85D \uBC29\uC5B4\uB825\uC774
+    \uC99D\uAC00\uD55C\uB2E4."
+  fCollDown: 0

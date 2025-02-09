@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 93fb2c68eed31c0458c0504f8ac6b796
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4717441011787736864
+    second: npc idle_0
+  - first:
+      213: 5583307454401876877
+    second: npc idle_1
+  - first:
+      213: 4595339842102996558
+    second: npc idle_2
+  - first:
+      213: -62577740539327282
+    second: npc idle_3
+  - first:
+      213: -9026427310727975076
+    second: npc idle_4
+  - first:
+      213: -5001965046243837064
+    second: npc idle_5
+  - first:
+      213: 5218415725594504747
+    second: npc idle_6
+  - first:
+      213: 6849777726276561830
+    second: npc idle_7
+  - first:
+      213: 187424168313516717
+    second: npc idle_8
+  - first:
+      213: 4570071418758945903
+    second: npc idle_9
+  - first:
+      213: -1113369576708038567
+    second: npc idle_10
+  - first:
+      213: -7832372420016205088
+    second: npc idle_11
+  - first:
+      213: -3544023226822556559
+    second: npc idle_12
+  - first:
+      213: 972420162714326465
+    second: npc idle_13
+  - first:
+      213: -1724956025389297669
+    second: npc idle_14
+  - first:
+      213: -8461457167264749817
+    second: npc idle_15
+  - first:
+      213: 6845731707309778729
+    second: npc idle_16
+  - first:
+      213: 4445288198538414554
+    second: npc idle_17
+  - first:
+      213: 5472069104932039573
+    second: npc idle_18
+  - first:
+      213: -3893409705785705862
+    second: npc idle_19
+  - first:
+      213: 3048540603257534251
+    second: npc idle_20
+  - first:
+      213: -5747780259199737118
+    second: npc idle_21
+  - first:
+      213: -4904827920441199049
+    second: npc idle_22
+  - first:
+      213: -2146877435826115479
+    second: npc idle_23
+  - first:
+      213: 4640921251563904546
+    second: npc idle_24
+  - first:
+      213: 5016512539494189692
+    second: npc idle_25
+  - first:
+      213: 8509952208355120591
+    second: npc idle_26
+  - first:
+      213: 1269012806199582795
+    second: npc idle_27
+  - first:
+      213: 1823319644664133695
+    second: npc idle_28
+  - first:
+      213: 3981411253675440649
+    second: npc idle_29
+  - first:
+      213: -2842764458935407161
+    second: npc idle_30
+  - first:
+      213: 9062429855478960086
+    second: npc idle_31
+  - first:
+      213: -8545834285086079210
+    second: npc idle_32
+  - first:
+      213: -6375302557229500179
+    second: npc idle_33
+  - first:
+      213: -7925212938496777153
+    second: npc idle_34
+  - first:
+      213: 6232110010579701786
+    second: npc idle_35
+  - first:
+      213: 2365339295598056486
+    second: npc idle_36
+  - first:
+      213: 6056266127083918784
+    second: npc idle_37
+  - first:
+      213: 931940802317277071
+    second: npc idle_38
+  - first:
+      213: -3568199540458052994
+    second: npc idle_39
+  - first:
+      213: -1894528498064343479
+    second: npc idle_40
+  - first:
+      213: -8837536708831835543
+    second: npc idle_41
+  - first:
+      213: 5696409612086080092
+    second: npc idle_42
+  - first:
+      213: -5989988273914725537
+    second: npc idle_43
+  - first:
+      213: -3688983193594539230
+    second: npc idle_44
+  - first:
+      213: 7704342867525448511
+    second: npc idle_45
+  - first:
+      213: 2870211964557998776
+    second: npc idle_46
+  - first:
+      213: -6088462681686515590
+    second: npc idle_47
+  - first:
+      213: -9193763527362678067
+    second: npc idle_48
+  - first:
+      213: 8139179243189460068
+    second: npc idle_49
+  - first:
+      213: 3712099340335392651
+    second: npc idle_50
+  - first:
+      213: 9126998761258355373
+    second: npc idle_0
+  - first:
+      213: -2953960673743245531
+    second: npc idle_1
+  - first:
+      213: 8992734515766197909
+    second: npc idle_2
+  - first:
+      213: -6766194387910603691
+    second: npc idle_3
+  - first:
+      213: 6920417577523640369
+    second: npc idle_4
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa0c36340d99ae70800000000000000
+      internalID: -4717441011787736864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc idle_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f6f010b6c6107d0800000000000000
+      internalID: 5583307454401876877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc idle_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e73a3856c9ccc70800000000000000
+      internalID: 4595339842102996558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc idle_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cc8539d06a912a0800000000000000
+      internalID: -62577740539327282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc idle_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1387aadee134a0060800000000000000
+      internalID: -9026427310727975076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      npc idle_3: -62577740539327282
+      npc idle_1: 5583307454401876877
+      npc idle_0: -4717441011787736864
+      npc idle_4: -9026427310727975076
+      npc idle_2: 4595339842102996558
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

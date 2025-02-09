@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 73919607ce3473e4b85f50f6c60df3dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 132530710729057954
+    second: Skel Knight_0
+  - first:
+      213: 6891058482022195505
+    second: Skel Knight_1
+  - first:
+      213: 3699585646644136492
+    second: Skel Knight_2
+  - first:
+      213: -764052291279497698
+    second: Skel Knight_3
+  - first:
+      213: 8734741539371905970
+    second: Skel Knight_4
+  - first:
+      213: 4352028219664169264
+    second: Skel Knight_5
+  - first:
+      213: -5690313839642005543
+    second: Skel Knight_6
+  - first:
+      213: 7372530484668119249
+    second: Skel Knight_7
+  - first:
+      213: -3855538086197516880
+    second: Skel Knight_8
+  - first:
+      213: 8891108898044668861
+    second: Skel Knight_9
+  - first:
+      213: -7563013293242559460
+    second: Skel Knight_10
+  - first:
+      213: -5555969693577474342
+    second: Skel Knight_11
+  - first:
+      213: 5659735955429706286
+    second: Skel Knight_12
+  - first:
+      213: 3371849029381327648
+    second: Skel Knight_13
+  - first:
+      213: 1188918299248660945
+    second: Skel Knight_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skel Knight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5db951533865b24e9488057c5f66d7c
+      internalID: 132530710729057954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 164
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbf24084c6516c4394835e799ad8b49
+      internalID: 6891058482022195505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 164
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb0209d130096f4580d98e695195066
+      internalID: 3699585646644136492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 164
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bd4e00ebe01d745a2234c68b2b484a
+      internalID: -764052291279497698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a47017753d05b49b8dd04f92d45556
+      internalID: 8734741539371905970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 82
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068d8a164cd6dac49ab4f197c44081ac
+      internalID: 4352028219664169264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 82
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbe04f6fa684744ebdec0649b8c7ecb
+      internalID: -5690313839642005543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 82
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38208d4cd3e14f94d93d11aa15b78a76
+      internalID: 7372530484668119249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 82
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd8e183a12e05d4780009de03bc9c3e
+      internalID: -3855538086197516880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 82
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80692869d4e444c9c4671281d0d0b6
+      internalID: 8891108898044668861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d327ac16e8ac75448a30c9ac9cad0f27
+      internalID: -7563013293242559460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fede4617718624bad5ffe454be4cf9
+      internalID: -5555969693577474342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0f732724264854fafbfaca04ffb7f3
+      internalID: 5659735955429706286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32126b7241f817c43ba42c5bf8934495
+      internalID: 3371849029381327648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skel Knight_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3081551, y: 0.4721613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d2e0bf2ae17d84f8335ade1b701351
+      internalID: 1188918299248660945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Skel Knight_0: 132530710729057954
+      Skel Knight_6: -5690313839642005543
+      Skel Knight_7: 7372530484668119249
+      Skel Knight_10: -7563013293242559460
+      Skel Knight_4: 8734741539371905970
+      Skel Knight_8: -3855538086197516880
+      Skel Knight_11: -5555969693577474342
+      Skel Knight_5: 4352028219664169264
+      Skel Knight_2: 3699585646644136492
+      Skel Knight_9: 8891108898044668861
+      Skel Knight_13: 3371849029381327648
+      Skel Knight_1: 6891058482022195505
+      Skel Knight_3: -764052291279497698
+      Skel Knight_14: 1188918299248660945
+      Skel Knight_12: 5659735955429706286
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

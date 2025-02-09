@@ -1,0 +1,1023 @@
+fileFormatVersion: 2
+guid: 7ca8c4cda6575e741a3861f0d4c5fdab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4794563376211530898
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_0"
+  - first:
+      213: 4914491194870959345
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_1"
+  - first:
+      213: -9122005444351877434
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_2"
+  - first:
+      213: -2934434274579376577
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_3"
+  - first:
+      213: -5433904163735700371
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_4"
+  - first:
+      213: 5716937684333420824
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_5"
+  - first:
+      213: -6953107696089233514
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_6"
+  - first:
+      213: -8007691600554371590
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_7"
+  - first:
+      213: 6080667330328842726
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_8"
+  - first:
+      213: -8427190432198075213
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_9"
+  - first:
+      213: 4397840879025337292
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_10"
+  - first:
+      213: 2439696965108646908
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_11"
+  - first:
+      213: -4091685452103686649
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_12"
+  - first:
+      213: 7860888952262219427
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_13"
+  - first:
+      213: -4824858533743678904
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_14"
+  - first:
+      213: 8242206262174755230
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_15"
+  - first:
+      213: 6879560757530094836
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_16"
+  - first:
+      213: 9091957742849750191
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_17"
+  - first:
+      213: 7314254957092173279
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_18"
+  - first:
+      213: 7217556853018704382
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_19"
+  - first:
+      213: -5575466853713578002
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_20"
+  - first:
+      213: 4824824555059877307
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_21"
+  - first:
+      213: -2325162246776324058
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_22"
+  - first:
+      213: -3425814257785704120
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_23"
+  - first:
+      213: -1677796054657763312
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_24"
+  - first:
+      213: 7302798690156510578
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_25"
+  - first:
+      213: 7246283817227272967
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_26"
+  - first:
+      213: 3890009545028407464
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_27"
+  - first:
+      213: -5286582912164472361
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_28"
+  - first:
+      213: -9063341252783034738
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_29"
+  - first:
+      213: -2511669198032540200
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_30"
+  - first:
+      213: 8426378512436185239
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_31"
+  - first:
+      213: 7793482195410110044
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_32"
+  - first:
+      213: 6634126664336751351
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_33"
+  - first:
+      213: -8742392200909072181
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_34"
+  - first:
+      213: -2787246913479083490
+    second: "258 149 \uC778 \uCE90\uB9AD\uD130 \uC2A4\uD0AC_35"
+  - first:
+      213: -7210805437647065697
+    second: Player_Skill_0
+  - first:
+      213: 3868025872666123374
+    second: Player_Skill_1
+  - first:
+      213: -8907949768636824137
+    second: Player_Skill_2
+  - first:
+      213: 6101855446927960766
+    second: Player_Skill_3
+  - first:
+      213: 5600749534990057037
+    second: Player_Skill_4
+  - first:
+      213: 8199149716198332120
+    second: Player_Skill_5
+  - first:
+      213: -569549637640698677
+    second: Player_Skill_6
+  - first:
+      213: 5162936646921327081
+    second: Player_Skill_7
+  - first:
+      213: 9089019364280838801
+    second: Player_Skill_8_1
+  - first:
+      213: -7380268505679051700
+    second: Player_Skill_9
+  - first:
+      213: -3954621299008204956
+    second: Player_Skill_10
+  - first:
+      213: 938479237554531428
+    second: Player_Skill_11
+  - first:
+      213: -2424093181918824714
+    second: Player_Skill_12
+  - first:
+      213: 7485375827284587977
+    second: Player_Skill_13
+  - first:
+      213: 3958872390959950669
+    second: Player_Skill_14
+  - first:
+      213: -2444905412020275804
+    second: Player_Skill_15
+  - first:
+      213: -8392327957094314505
+    second: Player_Skill_16_1
+  - first:
+      213: -1655083655187953189
+    second: Player_Skill_17
+  - first:
+      213: -1408590070115205249
+    second: Player_Skill_18
+  - first:
+      213: -7460080498636175628
+    second: Player_Skill_19
+  - first:
+      213: -7652027815873423947
+    second: Player_Skill_20
+  - first:
+      213: 7367302242274187182
+    second: Player_Skill_21
+  - first:
+      213: -1257230655639101541
+    second: Player_Skill_22
+  - first:
+      213: 5411352423024405268
+    second: Player_Skill_23
+  - first:
+      213: 6331301595205878196
+    second: Player_Skill_24
+  - first:
+      213: 2840607819211743669
+    second: Player_Skill_25
+  - first:
+      213: 1009222429912671226
+    second: Player_Skill_26
+  - first:
+      213: 7938740203027838250
+    second: Player_Skill_27
+  - first:
+      213: 2061375291463793438
+    second: Player_Skill_28
+  - first:
+      213: -3830217517859817977
+    second: Player_Skill_29
+  - first:
+      213: 1049345890552354558
+    second: Player_Skill_30
+  - first:
+      213: -1056983558458308657
+    second: Player_Skill_31
+  - first:
+      213: -7791234074837416455
+    second: Player_Skill_32
+  - first:
+      213: -370092115759130123
+    second: Player_Skill_33_1
+  - first:
+      213: -6256477490685086922
+    second: Player_Skill_34
+  - first:
+      213: 1178151684714810269
+    second: Player_Skill_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Skill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 745
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e130afb1f4cac4d9ae05a2a6557f2f
+      internalID: -7210805437647065697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 745
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3918e4f02d5263046a68601a0edb9ea3
+      internalID: 3868025872666123374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 745
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ce0b2eb20266447b2afe6c06ea8d57
+      internalID: -8907949768636824137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 745
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f69c92913ae184e98a00c4b48f8b75
+      internalID: 6101855446927960766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_4
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 745
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3583e89eb9c4b1f4eb14dd598766bee3
+      internalID: 5600749534990057037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_5
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 745
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd39522b770879741821c428f405d6ae
+      internalID: 8199149716198332120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7ca4bab45472741bbfc645cc78f77c
+      internalID: -569549637640698677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 596
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4996936e203a834ea99ccf8917a74c2
+      internalID: 5162936646921327081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_8_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 596
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae89df28adb2bea46bb9d5aa5149b394
+      internalID: 9089019364280838801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8464aa3e22e69834996c448ff3336482
+      internalID: -2424093181918824714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 447
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6395a1f0bec0d3c4794088eea27c8ab4
+      internalID: 7485375827284587977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 447
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4502e3a6ed74bf4581ceeb07dec45f8
+      internalID: 3958872390959950669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_15
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 447
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea3010f9063f044e9e840d399493e44
+      internalID: -2444905412020275804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_16_1
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 447
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ecc7c1667511e49a73c4da207ff048
+      internalID: -8392327957094314505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd65bc9150ec5440a21c2097c93fbe8
+      internalID: -1408590070115205249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 298
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2215275931f577f43ba8629b72bfce23
+      internalID: -7460080498636175628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 298
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd80326c950f58469f66dc4e71421cc
+      internalID: -7652027815873423947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_21
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 298
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4f0492e5a3d394fb7e8d3430c3ed12
+      internalID: 7367302242274187182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_22
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 298
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e50e8b57961e3e44b88e04b82eddb6e
+      internalID: -1257230655639101541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_23
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 298
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca232a2d29bb6f54dbea7673a58d13c4
+      internalID: 5411352423024405268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef3b7c40a179b64ea61ac1dd683af90
+      internalID: 6331301595205878196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 149
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4419513cb214b8741a3705d30e31c7b2
+      internalID: 2840607819211743669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 149
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae095ab3761da4ea8c0cb8edc3ac81
+      internalID: 1009222429912671226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_27
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 149
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb7e0755a9c0734a94dcdce7e7760f4
+      internalID: 7938740203027838250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_28
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 149
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1d903caa77d3e4698d1aa62c5ff64b
+      internalID: 2061375291463793438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_29
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 149
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436ca180b2b49e54498ac10ee3977de9
+      internalID: -3830217517859817977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aecb648da717ff41bd3f2c61ca4ab9d
+      internalID: 1049345890552354558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_31
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d50cd012a7f4442ba859e0331d34cb
+      internalID: -1056983558458308657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_32
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a4bb4cb7016de4780a4e83b5cd4e23
+      internalID: -7791234074837416455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Skill_33_1
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 258
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a0e4feb20048f42ac2160f8a46c27f
+      internalID: -370092115759130123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Player_Skill_5: 8199149716198332120
+      Player_Skill_3: 6101855446927960766
+      Player_Skill_23: 5411352423024405268
+      Player_Skill_14: 3958872390959950669
+      Player_Skill_29: -3830217517859817977
+      Player_Skill_8_1: 9089019364280838801
+      Player_Skill_2: -8907949768636824137
+      Player_Skill_30: 1049345890552354558
+      Player_Skill_7: 5162936646921327081
+      Player_Skill_6: -569549637640698677
+      Player_Skill_20: -7652027815873423947
+      Player_Skill_24: 6331301595205878196
+      Player_Skill_26: 1009222429912671226
+      Player_Skill_28: 2061375291463793438
+      Player_Skill_4: 5600749534990057037
+      Player_Skill_18: -1408590070115205249
+      Player_Skill_1: 3868025872666123374
+      Player_Skill_22: -1257230655639101541
+      Player_Skill_33_1: -370092115759130123
+      Player_Skill_19: -7460080498636175628
+      Player_Skill_16_1: -8392327957094314505
+      Player_Skill_21: 7367302242274187182
+      Player_Skill_25: 2840607819211743669
+      Player_Skill_12: -2424093181918824714
+      Player_Skill_31: -1056983558458308657
+      Player_Skill_15: -2444905412020275804
+      Player_Skill_32: -7791234074837416455
+      Player_Skill_13: 7485375827284587977
+      Player_Skill_27: 7938740203027838250
+      Player_Skill_0: -7210805437647065697
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

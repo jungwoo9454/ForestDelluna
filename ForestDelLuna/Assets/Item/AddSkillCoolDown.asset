@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e1b08911e740764c8115c9837ef7f37, type: 3}
+  m_Name: AddSkillCoolDown
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 5c5df024fbd2c024e8aee2cd456d9884, type: 3}
+  name: "\uC2E0\uBE44\uB85C\uC6B4 \uCC45"
+  Codename: AddSkillCoolDown
+  info: "\uC7AC\uC0AC\uC6A9 \uB300\uAE30\uC2DC\uAC04 \uAC10\uC18C\uB7C9\uC774 30%\uC99D\uAC00
+    \uD55C\uB2E4."

@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: 6ef0b7d0c462905438a92b0da9c608f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5226689354443395728
+    second: PlayerShhet_0
+  - first:
+      213: -7841098412383559720
+    second: PlayerShhet_1
+  - first:
+      213: 1053447237303261437
+    second: PlayerShhet_2
+  - first:
+      213: -885844693649899925
+    second: PlayerShhet_3
+  - first:
+      213: 882314354158742171
+    second: PlayerShhet_4
+  - first:
+      213: 1411466572447063536
+    second: PlayerShhet_5
+  - first:
+      213: 1210585813218493351
+    second: PlayerShhet_6_1
+  - first:
+      213: -95120326189655789
+    second: PlayerShhet_7
+  - first:
+      213: 2083716499729926199
+    second: PlayerShhet_8
+  - first:
+      213: -6563169406396536912
+    second: PlayerShhet_9
+  - first:
+      213: -1387342956109597225
+    second: PlayerShhet_10
+  - first:
+      213: 3954711097251774154
+    second: PlayerShhet_11
+  - first:
+      213: 2418118048608973257
+    second: PlayerShhet_12
+  - first:
+      213: -131374498939676746
+    second: PlayerShhet_13
+  - first:
+      213: -2160410053357741499
+    second: PlayerShhet_14_1
+  - first:
+      213: -4953245937659141329
+    second: PlayerShhet_15
+  - first:
+      213: 5908059544771465350
+    second: PlayerShhet_16
+  - first:
+      213: -698742597981369120
+    second: PlayerShhet_17_1
+  - first:
+      213: 4080338474023550583
+    second: PlayerShhet_18
+  - first:
+      213: -8146626343651542483
+    second: PlayerShhet_19_1
+  - first:
+      213: 6297837862356503833
+    second: PlayerShhet_20
+  - first:
+      213: 5250498242809867735
+    second: PlayerShhet_21
+  - first:
+      213: 2127376413382481539
+    second: PlayerShhet_22
+  - first:
+      213: -1893777801027711611
+    second: PlayerShhet_23
+  - first:
+      213: -1741060395581326454
+    second: PlayerShhet_24
+  - first:
+      213: 5217221880030367945
+    second: PlayerShhet_25
+  - first:
+      213: 8202714717996867639
+    second: PlayerShhet_26
+  - first:
+      213: -3090134742505886397
+    second: PlayerShhet_27
+  - first:
+      213: -7497841494083476054
+    second: PlayerShhet_28_1
+  - first:
+      213: -2865987643408547234
+    second: PlayerShhet_29
+  - first:
+      213: -1742570169931059567
+    second: PlayerShhet_30
+  - first:
+      213: -5192695159421102588
+    second: PlayerShhet_31
+  - first:
+      213: 1136263540568517587
+    second: PlayerShhet_32_1
+  - first:
+      213: -1057557978750618089
+    second: PlayerShhet_33
+  - first:
+      213: -2281921170223420950
+    second: PlayerShhet_34
+  - first:
+      213: -9048482663162684574
+    second: PlayerShhet_35
+  - first:
+      213: 6506417724106293398
+    second: PlayerShhet_36
+  - first:
+      213: 7058226276341011911
+    second: PlayerShhet_37
+  - first:
+      213: -1167397036630154461
+    second: PlayerShhet_38
+  - first:
+      213: 1017142430865311259
+    second: PlayerShhet_39
+  - first:
+      213: 3283146157839146313
+    second: PlayerShhet_40_1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerShhet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b83ee87b50a08429e9a3b9f3cf1e59
+      internalID: -5226689354443395728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 816
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caa05c56fd75b84587b0e8b33989899
+      internalID: -7841098412383559720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 816
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82713cba93ca2146ab5d3cd396146cd
+      internalID: 1053447237303261437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 816
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a17fc6a9d584e14ca0687460d762e46
+      internalID: -885844693649899925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 816
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9688f07371d1ea40a3156d46a0efab5
+      internalID: 882314354158742171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_5
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 816
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1f9a6ac0032ee49a0bc9172fba2802
+      internalID: 1411466572447063536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_6_1
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 816
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbec8d9b5505fb54fadaf4b2a450171c
+      internalID: 1210585813218493351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebcfcec3d4334748b2c6f2283a09cb7
+      internalID: -95120326189655789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 680
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c1f0417989e847b77b0ea11f73ec8
+      internalID: 2083716499729926199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 680
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd05f9d0d03c364893f14a304d6fb9f
+      internalID: -6563169406396536912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 680
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f27347fa5f207e478ad42df251dbb18
+      internalID: -1387342956109597225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 680
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3357bf7fddde047959982275f365d8
+      internalID: 3954711097251774154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_12
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 680
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736475aa70da9f6449595d53b9a5e098
+      internalID: 2418118048608973257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_13
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 680
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614981fdc592e074ea32e5335acbbb11
+      internalID: -131374498939676746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_14_1
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 680
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edbfea19f988bb4d9a2c9194ccf53e9
+      internalID: -2160410053357741499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461c689bc3fe7eb499fe6ddd4150789d
+      internalID: -4953245937659141329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf3da37895a6fd408dc38eacb59a62e
+      internalID: 5908059544771465350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_17_1
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 544
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2bced978717343b53c8a70267923b
+      internalID: -698742597981369120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 545
+        width: 224
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f946de7fa456b884789a2685862010bc
+      internalID: 4080338474023550583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_19_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 544
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acad10e38ef4951408e3b82c38db3410
+      internalID: -8146626343651542483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a0c1b17ba67e649a2dd46a70a61b85
+      internalID: 6297837862356503833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 408
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ee6dc36865cb14fb3c16f6c6cee015
+      internalID: 5250498242809867735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 408
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2275f20d1c93e44bb9948a688797d36
+      internalID: 2127376413382481539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 408
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5814563d17beb8438daee8ac6946d52
+      internalID: -1893777801027711611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 408
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cdfad9f2ea418428799b6b6d05f9c4
+      internalID: -1741060395581326454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_25
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 408
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f020d26c2bacd4d87d3a22efc0f00e
+      internalID: 5217221880030367945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_26
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 408
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b1afa8579ebb14f9946e92aad62ae4
+      internalID: 8202714717996867639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_27
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 408
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e1ec2e26db4304e83de86cf8debc9c
+      internalID: -3090134742505886397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_28_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fc478d4f2ec8e42b0dc126fa87f88c
+      internalID: -7497841494083476054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42cf2f3760c3d2478ab6871b1669025
+      internalID: -2865987643408547234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 136
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11192b2c2bc08bb45ab3489a3cebc524
+      internalID: -1742570169931059567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 136
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6b904b1a1f53344a06873e65a2c241
+      internalID: -5192695159421102588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_32_1
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 136
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0f5f475f871304e9f7088b47f824bf
+      internalID: 1136263540568517587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d491426961b1edf4c8fa1266c6b0eaf5
+      internalID: -1057557978750618089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebc3ae8e62962243a883c966bd59026
+      internalID: -2281921170223420950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e97bbbc1f9d4f40be01cf3edc1cd87
+      internalID: -9048482663162684574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba293c06d28544bbe4df8d74e79b58
+      internalID: 6506417724106293398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56581b7a15e850f45842769199666c37
+      internalID: 7058226276341011911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_38
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f5ae1b9f3618747b833ddaa38f7296
+      internalID: -1167397036630154461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_39
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc5c94ad4d02084a87813c19ffb4781
+      internalID: 1017142430865311259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerShhet_40_1
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 0
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4398eaff8895c04dbfe8e3d45b9c814
+      internalID: 3283146157839146313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayerShhet_23: -1893777801027711611
+      PlayerShhet_1: -7841098412383559720
+      PlayerShhet_27: -3090134742505886397
+      PlayerShhet_3: -885844693649899925
+      PlayerShhet_40_1: 3283146157839146313
+      PlayerShhet_8: 2083716499729926199
+      PlayerShhet_7: -95120326189655789
+      PlayerShhet_13: -131374498939676746
+      PlayerShhet_33: -1057557978750618089
+      PlayerShhet_38: -1167397036630154461
+      PlayerShhet_5: 1411466572447063536
+      PlayerShhet_24: -1741060395581326454
+      PlayerShhet_30: -1742570169931059567
+      PlayerShhet_36: 6506417724106293398
+      PlayerShhet_10: -1387342956109597225
+      PlayerShhet_34: -2281921170223420950
+      PlayerShhet_35: -9048482663162684574
+      PlayerShhet_29: -2865987643408547234
+      PlayerShhet_28_1: -7497841494083476054
+      PlayerShhet_19_1: -8146626343651542483
+      PlayerShhet_9: -6563169406396536912
+      PlayerShhet_20: 6297837862356503833
+      PlayerShhet_14_1: -2160410053357741499
+      PlayerShhet_31: -5192695159421102588
+      PlayerShhet_17_1: -698742597981369120
+      PlayerShhet_12: 2418118048608973257
+      PlayerShhet_32_1: 1136263540568517587
+      PlayerShhet_21: 5250498242809867735
+      PlayerShhet_22: 2127376413382481539
+      PlayerShhet_37: 7058226276341011911
+      PlayerShhet_16: 5908059544771465350
+      PlayerShhet_25: 5217221880030367945
+      PlayerShhet_15: -4953245937659141329
+      PlayerShhet_18: 4080338474023550583
+      PlayerShhet_2: 1053447237303261437
+      PlayerShhet_0: -5226689354443395728
+      PlayerShhet_4: 882314354158742171
+      PlayerShhet_26: 8202714717996867639
+      PlayerShhet_39: 1017142430865311259
+      PlayerShhet_6_1: 1210585813218493351
+      PlayerShhet_11: 3954711097251774154
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
